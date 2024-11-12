@@ -20,8 +20,8 @@ embed-cover: false
 cover-size: 10000x10000
 cover-format: original
 # jpg png or original
-alac-save-folder: G:\Music
-atmos-save-folder: G:\Music
+alac-save-folder: /mnt/g/music
+atmos-save-folder: /mnt/g/music
 check: ""
 # API or .txt
 force-api: false
